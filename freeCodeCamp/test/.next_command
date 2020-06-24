@@ -228,3 +228,4 @@ ls --color=auto
 cd website
 ls --color=auto
 rm footer.jpeg
+ls --color=auto
