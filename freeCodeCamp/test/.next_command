@@ -118,3 +118,4 @@ ls --color=auto
 cd..
 cd..
 cd ..
+ls --color=auto
