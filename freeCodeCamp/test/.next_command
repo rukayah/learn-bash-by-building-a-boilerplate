@@ -172,3 +172,5 @@ ls --color=auto
 touch roboto.font
 touch lato.font
 __vsc_prompt_cmd_original
+menlo.font
+touch menlo.font
