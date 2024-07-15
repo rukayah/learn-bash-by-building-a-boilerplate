@@ -164,3 +164,4 @@ ls --color=auto -all
 ls-a
 ls --color=auto -a
 cd .
+touch background.jpg
